@@ -1,0 +1,2 @@
+Text:  WHATEVER THE PAY IS
+Conf:  2

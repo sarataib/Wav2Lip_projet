@@ -1,0 +1,2 @@
+Text:  SOMETHING A BIT OUT OF THE WAY
+Conf:  4

@@ -1,0 +1,6 @@
+
+librosa==0.8.1
+numpy==1.23.5
+opencv-contrib-python>=4.5.5.64
+tqdm==4.66.1
+numba==0.57.1

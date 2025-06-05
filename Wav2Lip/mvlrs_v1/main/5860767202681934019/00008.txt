@@ -1,0 +1,2 @@
+Text:  YOU ARE STARTING IN CONTROL
+Conf:  4

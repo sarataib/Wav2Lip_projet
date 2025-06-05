@@ -1,0 +1,2 @@
+Text:  THERE WAS 30 40
+Conf:  3

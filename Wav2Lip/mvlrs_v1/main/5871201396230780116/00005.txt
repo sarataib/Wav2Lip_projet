@@ -1,0 +1,2 @@
+Text:  MY NAME IS RICHARD
+Conf:  5

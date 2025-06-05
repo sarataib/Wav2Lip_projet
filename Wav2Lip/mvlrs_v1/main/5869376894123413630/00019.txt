@@ -1,0 +1,2 @@
+Text:  SOMETHING WAS VERY STRANGE
+Conf:  5

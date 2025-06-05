@@ -1,0 +1,2 @@
+Text:  YOU MUST LEAVE THE PACK
+Conf:  5
